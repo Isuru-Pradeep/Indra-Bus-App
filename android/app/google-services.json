@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242334186353",
+    "project_id": "bustrackingapp-e0498",
+    "storage_bucket": "bustrackingapp-e0498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242334186353:android:7c4a8bb05dc97aed9654d0",
+        "android_client_info": {
+          "package_name": "com.roadmapv.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkFg5bwYcvQhMNNMWILBNpIBEA_bmO-6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
